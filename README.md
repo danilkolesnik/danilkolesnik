@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, My name is Danil</h1>
-<h3 align="left">I'm passionate FrontEnd developer from Ukraine</h3>
+<h3 align="left">I'm creative FrontEnd developer from Ukraine</h3>
 
 - 🔭 I’m currently working on a lot of different stuff
 - 🌱 Learning many technologies
