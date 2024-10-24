@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, My name is Danil</h1>
 <h3 align="center">I'm creative FullStack developer from Ukraine</h3>
 
-- 🔭 I’m currently working on a lot of different stuff
-- 🌱 Learning many technologies
+- 🔭 Ask me about React/Next, Wordpress
 - 📫 How to reach me: apparentlysolved@gmail.com
   
 <h3 align="left">Languages and Tools:</h3>
