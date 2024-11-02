@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Danil</h1>
+<h1 align="center">Hi, My name is Danil</h1>
 <h3 align="center">I'm creative FullStack developer from Ukraine</h3>
 
 - 🔭 Ask me about React/Next, Wordpress
